@@ -42,3 +42,4 @@
 2022-03-18 17:56:50.267  INFO 9580 --- [main] com.nowcoder.community.LoggerTests       : info log
 2022-03-18 17:56:50.268  WARN 9580 --- [main] com.nowcoder.community.LoggerTests       : warn log
 2022-03-18 17:56:50.268 ERROR 9580 --- [main] com.nowcoder.community.LoggerTests       : error log
+//1
