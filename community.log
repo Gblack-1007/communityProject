@@ -1,0 +1,44 @@
+2022-03-18 17:43:10.661  INFO 2376 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 12.0.2 on DESKTOP-69M6VP2 with PID 2376 (D:\优秀是习惯\java学习\community\target\classes started by 14114 in D:\优秀是习惯\java学习\community)
+2022-03-18 17:43:10.662 DEBUG 2376 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.5.10, Spring v5.3.16
+2022-03-18 17:43:10.662  INFO 2376 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-03-18 17:43:11.146  INFO 2376 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-18 17:43:11.161  INFO 2376 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+2022-03-18 17:43:11.161  INFO 2376 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2022-03-18 17:43:11.162  INFO 2376 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2022-03-18 17:43:11.162  INFO 2376 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+2022-03-18 17:43:11.165  INFO 2376 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-18 17:43:11.166  INFO 2376 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-18 17:43:11.499  INFO 2376 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2022-03-18 17:43:11.501  INFO 2376 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 835 ms
+2022-03-18 17:43:11.836  INFO 2376 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-03-18 17:43:11.940  INFO 2376 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-18 17:43:11.968  INFO 2376 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2022-03-18 17:43:12.077  INFO 2376 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 1.535 seconds (JVM running for 2700.303)
+2022-03-18 17:43:12.080  INFO 2376 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-03-18 17:43:13.143  INFO 14960 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 12.0.2 on DESKTOP-69M6VP2 with PID 14960 (started by 14114 in D:\优秀是习惯\java学习\community)
+2022-03-18 17:43:13.145 DEBUG 14960 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.5.10, Spring v5.3.16
+2022-03-18 17:43:13.147  INFO 14960 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-03-18 17:43:16.889  INFO 14960 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-03-18 17:43:17.421  INFO 14960 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 5.247 seconds (JVM running for 7.909)
+2022-03-18 17:43:18.061 DEBUG 14960 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-03-18 17:43:18.062  INFO 14960 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-03-18 17:43:18.062  WARN 14960 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-03-18 17:43:18.063 ERROR 14960 --- [main] com.nowcoder.community.LoggerTests       : error log
+2022-03-18 17:53:41.357  INFO 15168 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 12.0.2 on DESKTOP-69M6VP2 with PID 15168 (started by 14114 in D:\优秀是习惯\java学习\community)
+2022-03-18 17:53:41.359 DEBUG 15168 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.5.10, Spring v5.3.16
+2022-03-18 17:53:41.361  INFO 15168 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-03-18 17:53:45.206  INFO 15168 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-03-18 17:53:45.847  INFO 15168 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 5.506 seconds (JVM running for 8.641)
+2022-03-18 17:53:46.781 DEBUG 15168 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-03-18 17:53:46.783  INFO 15168 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-03-18 17:53:46.783  WARN 15168 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-03-18 17:53:46.785 ERROR 15168 --- [main] com.nowcoder.community.LoggerTests       : error log
+2022-03-18 17:56:45.288  INFO 9580 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 12.0.2 on DESKTOP-69M6VP2 with PID 9580 (started by 14114 in D:\优秀是习惯\java学习\community)
+2022-03-18 17:56:45.293 DEBUG 9580 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.5.10, Spring v5.3.16
+2022-03-18 17:56:45.298  INFO 9580 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-03-18 17:56:49.138  INFO 9580 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-03-18 17:56:49.615  INFO 9580 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 5.72 seconds (JVM running for 8.201)
+2022-03-18 17:56:50.267 DEBUG 9580 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-03-18 17:56:50.267  INFO 9580 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-03-18 17:56:50.268  WARN 9580 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-03-18 17:56:50.268 ERROR 9580 --- [main] com.nowcoder.community.LoggerTests       : error log
