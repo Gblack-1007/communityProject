@@ -43,7 +43,7 @@
         update user set header_url = #{headerUrl} where id = #{id}
     </update>
 
-    <update id="updatePassword">
+    <update id="updatePassword" parameterType="User" keyProperty="id">
         update user set password = #{password} where id = #{id}
     </update>
 
